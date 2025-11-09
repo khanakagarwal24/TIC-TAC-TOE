@@ -66,34 +66,6 @@ gcc tic_tac_toe.c -o tic_tac_toe
 
 
 
-
-
-💡 Example Gameplay
-
-  1 | 2 | 3
- ---+---+---
-  4 | 5 | 6
- ---+---+---
-  7 | 8 | 9
-Player 1 (X), enter position: 5
-
-
-
-
-
-📁 File Structure
-
-TicTacToe-C/
-│
-├── tic_tac_toe.c     # Main game source file
-├── README.md         # Project documentation
-└── LICENSE           # License (optional)
-
-
-
-
-
-
 🚀 Future Improvements
 
 Add AI opponent using the minimax algorithm 🤖
