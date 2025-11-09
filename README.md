@@ -28,6 +28,7 @@ Works on Windows, Linux, and macOS
 
 
 ⚙️ Installation and Compilation
+
 # Clone the repository
 git clone https://github.com/yourusername/TicTacToe-C.git
 
@@ -58,6 +59,7 @@ gcc tic_tac_toe.c -o tic_tac_toe
 
 
 💡 Example Gameplay
+
   1 | 2 | 3
  ---+---+---
   4 | 5 | 6
@@ -68,6 +70,7 @@ Player 1 (X), enter position: 5
 
 
 📁 File Structure
+
 TicTacToe-C/
 │
 ├── tic_tac_toe.c     # Main game source file
@@ -78,6 +81,7 @@ TicTacToe-C/
 
 
 🚀 Future Improvements
+
 Add AI opponent using the minimax algorithm 🤖
 
 Add graphical interface using SDL or ncurses 🖥️
@@ -88,6 +92,7 @@ Add configurable board sizes (4x4, 5x5) 🔢
 
 
 📜 License
+
 This project is licensed under the MIT License. Use it freely for learning or development.
 
 
