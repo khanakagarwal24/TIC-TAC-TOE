@@ -4,6 +4,8 @@ A simple command-line implementation of the classic Tic Tac Toe game written in 
 
 
 
+
+
 ✨ Features
 
 Two-player mode (Player 1 vs Player 2)
@@ -18,11 +20,15 @@ Beginner-friendly C code
 
 
 
+
+
 🧰 Requirements
 
 GCC compiler or any C-compatible compiler
 
 Works on Windows, Linux, and macOS
+
+
 
 
 
@@ -43,6 +49,8 @@ gcc tic_tac_toe.c -o tic_tac_toe
 
 
 
+
+
 🕹️ How to Play
 
 1.The game board has 9 positions numbered 1 to 9.
@@ -58,6 +66,8 @@ gcc tic_tac_toe.c -o tic_tac_toe
 
 
 
+
+
 💡 Example Gameplay
 
   1 | 2 | 3
@@ -66,6 +76,8 @@ gcc tic_tac_toe.c -o tic_tac_toe
  ---+---+---
   7 | 8 | 9
 Player 1 (X), enter position: 5
+
+
 
 
 
@@ -80,6 +92,8 @@ TicTacToe-C/
 
 
 
+
+
 🚀 Future Improvements
 
 Add AI opponent using the minimax algorithm 🤖
@@ -87,6 +101,8 @@ Add AI opponent using the minimax algorithm 🤖
 Add graphical interface using SDL or ncurses 🖥️
 
 Add configurable board sizes (4x4, 5x5) 🔢
+
+
 
 
 
